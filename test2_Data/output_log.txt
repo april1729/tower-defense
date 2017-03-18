@@ -1,0 +1,29 @@
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     32 MB
+FMOD failed to initialize ... A call to a standard soundcard driver failed, which could possibly mean a bug in the driver or resources were missing or exhausted. 
+ 
+(Filename:  Line: 239)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\austi_000\Desktop\tower defence\test2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\austi_000\Desktop\tower defence\test2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\austi_000\Desktop\tower defence\test2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\austi_000\Desktop\tower defence\test2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.677 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+System.Boolean[]
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Platform assembly: C:\Users\austi_000\Desktop\tower defence\test2_Data\Managed\System.dll (this message is harmless)

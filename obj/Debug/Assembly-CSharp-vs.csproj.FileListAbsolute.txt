@@ -1,0 +1,11 @@
+C:\Users\Giovanni\Google Drive\projects\Unity\TowerDefense\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Giovanni\Google Drive\projects\Unity\TowerDefense\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Giovanni\Google Drive\projects\Unity\TowerDefense\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Giovanni\Google Drive\projects\Unity\TowerDefense\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Giovanni\Google Drive\projects\Unity\TowerDefense\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Giovanni\Google Drive\projects\Unity\TowerDefense\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Giovanni\Google Drive\projects\Unity\TowerDefense\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Giovanni\Google Drive\projects\Unity\TowerDefense\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Giovanni\Google Drive\projects\Unity\TowerDefense\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Giovanni\Google Drive\projects\Unity\TowerDefense\obj\Debug\Assembly-CSharp.dll
+C:\Users\Giovanni\Google Drive\projects\Unity\TowerDefense\obj\Debug\Assembly-CSharp.pdb
